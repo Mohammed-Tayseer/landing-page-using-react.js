@@ -10,7 +10,7 @@ const Navs = () => {
         <Navbar.Brand href="#">
           <img src={logo} alt='Logo'/>
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="main" className='togle'  />
+        <Navbar.Toggle aria-controls="main" className='togle'/>
         <Navbar.Collapse id="main">
           <Nav className="m-auto mb-2 mb-lg-0">
             <Nav.Link className="p-2 p-lg-3" aria-current="page" href="index.html">Home</Nav.Link>
