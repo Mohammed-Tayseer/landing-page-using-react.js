@@ -1,0 +1,31 @@
+.g-row{
+  display: grid;
+  grid-row-gap: 20px;
+}
+.numbers{
+  background-color: var(--color-basic);
+  padding: 25px 0;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+.numbers h2{
+  color: #fff;
+  font-size: 40px;
+  margin: 0 0 20px;
+  font-weight: 500;
+  margin: 10px 0;
+}
+.numbers h6{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+
+
+
+

@@ -1,0 +1,26 @@
+.footer{
+  padding: 80px 0 30px 0;
+  background-color: var(--color-basic);
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+  padding: 0 !important;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+.footer .ul-text li{
+  padding: 0 30px 0 0;
+  font-size: 17px;
+}
+.footer .icons li{
+  padding: 0 20px 0 0;
+  font-size: 20px;
+}
+.footer .rights{
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  padding: 15px 0 0 0px;
+}
