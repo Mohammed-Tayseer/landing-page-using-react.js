@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Details
+   Project URL: [https://mohammed-tayseer.github.io/landing-page-using-react.js/]   
+   Description: This project showcases a comprehensive landing page built using React, integrating various components                   and content to create an engaging user experience.
+
